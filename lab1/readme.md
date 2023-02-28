@@ -1,4 +1,4 @@
 # MAIN
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/arukin/qwerty/blob/main/lab1/gif/T54A6863.jpg)
 
